@@ -1,0 +1,25 @@
+
+
+table {
+	font-family:Times New Roman
+	color: blue;
+	font-size: 12pt;
+	font-style: normal;
+font-weight: bold;
+text-align:;
+background-color: LightBlue;
+border-collapse: collapse;
+border:2px dolid navy
+}
+table.inner{
+	border:0px;
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+}
